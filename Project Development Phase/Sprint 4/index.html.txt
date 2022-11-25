@@ -1,0 +1,59 @@
+<!DOCTYPE
+html>
+<html lang="en">
+<head>
+<title>DATA ANALYTICS</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/boot
+strap.min.css">
+<script
+src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></scrip t>
+<script
+src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body style="background-color:lightseagreen;">
+<nav class="navbar navbar-inverse">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="#">ANALYTICS FOR HOSPITALS' HEALTH-CARE DATA</a>
+</div>
+<ul class="nav navbar-nav">
+<li class="active"><a href="#">HOME</a></li>
+<li><a href="dashboard.html">DASHBOARD</a></li>
+<li><a href="report.html">REPORT</a></li>
+<li><a href="story.html">STORY</a></li>
+</ul>
+</div>
+</nav>
+<div>
+<center> <h1><b>TECHNOLOGY : DATA ANALYTICS</b></h1><h1><b>DOMAIN : HEALTH CARE</b></h1><h1><b>PROJECT TITLE : ANALYTICS FOR HOSPITALS' HEALTH-CARE DATA</b></h1>
+<h1><b>TEAM ID : PNT2022TMID25280 </b></h1></center>
+</div>
+<table class="table table-bordered">
+<tbody style="background-color:steelblue;">
+<tr>
+<td><b>TEAM LEADER</b></td>
+<td><b>LAKSHNA S</b></td>
+<td><b>210619205023</b></td>
+</tr>
+<tr>
+<td><b>TEAM MEMBER 1</b></td>
+<td><b>JANANI B</b></td>
+<td><b>210619205018</b></td>
+</tr>
+<tr>
+<td><b>TEAM MEMBER 2</b></td>
+<td><b>MAHALAKSMI S</b></td>
+<td><b>210619205027</b></td>
+</tr>
+<tr>
+<td><b>TEAM MEMBER 3</b></td>
+<td><b>MONISHA M</b></td>
+<td><b>210619205030</b></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
